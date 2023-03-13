@@ -1,0 +1,15 @@
+$primary_color: red;
+$secondary_color: yellow;
+
+@mixin text_p {
+  color: $secondary_color;
+  font-size: 10;
+}
+
+.container {
+  background-color: $primary_color;
+  color: $secondary_color;
+  p {
+    @include text_p;
+  }
+}

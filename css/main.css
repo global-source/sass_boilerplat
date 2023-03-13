@@ -1,0 +1,6 @@
+.container {
+  background-color: red;
+  color: yellow; }
+  .container p {
+    color: yellow;
+    font-size: 10; }

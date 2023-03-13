@@ -1,0 +1,8 @@
+.container {
+  background-color: red;
+  color: yellow; }
+  .container p {
+    color: yellow;
+    font-size: 10; }
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UscUJBQXFCO0VBQ3JCLGFBQWEsRUFBRTtFQUNmO0lBQ0UsYUFBYTtJQUNiLGFBQWEsRUFBRSIsImZpbGUiOiJtYWluLnByZWYuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmNvbnRhaW5lciB7XG4gIGJhY2tncm91bmQtY29sb3I6IHJlZDtcbiAgY29sb3I6IHllbGxvdzsgfVxuICAuY29udGFpbmVyIHAge1xuICAgIGNvbG9yOiB5ZWxsb3c7XG4gICAgZm9udC1zaXplOiAxMDsgfVxuIl19 */
